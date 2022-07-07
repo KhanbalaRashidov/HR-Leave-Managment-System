@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>HR_Leave_Managment_System.Application</RootNamespace>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HR-Leave-Managment-System.Domain\HR-Leave-Managment-System.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
