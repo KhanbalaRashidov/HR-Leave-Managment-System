@@ -29,8 +29,8 @@
 - VSCode: `Just run`
 
 
-# Testing
-- Terminal: `dotnet test`
+<!-- # Testing
+- Terminal: `dotnet test` -->
 
 <!-- # Docker
 
@@ -44,7 +44,7 @@ docker run -d -p 3000:80 --name aspnetcore-docker-container aspnetcore-docker-im
 
 # Swagger (Dev env only)
 - http://localhost:5000/swagger
-
+<!-- 
 # Health check (Staging & Prod env only)
 - http://localhost:5000/hc-ui
-- http://localhost:5000/hc-json
+- http://localhost:5000/hc-json -->

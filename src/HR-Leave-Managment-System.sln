@@ -5,8 +5,6 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{66BA2EAB-FBA0-4424-B827-20A55A178123}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{60575E56-3B8D-4CF5-8580-1E0A2EB6CFB1}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{62378B1F-9EDD-4E23-AE7F-32C75CF02420}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{229C8622-2B38-41B7-963C-8AB8B6FC8660}"
@@ -15,9 +13,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{A41BA521-8D0B-4EC9-9844-4D78D5FCFD89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR-Leave-Managment-System.Domain", "HR-Leave-Managment-System.Domain\HR-Leave-Managment-System.Domain.csproj", "{38C9DD42-0FA1-4820-997E-23E3D5CF132E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HR-Leave-Managment-System.Domain", "HR-Leave-Managment-System.Domain\HR-Leave-Managment-System.Domain.csproj", "{38C9DD42-0FA1-4820-997E-23E3D5CF132E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR-Leave-Managment-System.Application", "HR-Leave-Managment-System.Application\HR-Leave-Managment-System.Application.csproj", "{258583AC-F5FA-479F-863D-37E80967AB70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HR-Leave-Managment-System.Application", "HR-Leave-Managment-System.Application\HR-Leave-Managment-System.Application.csproj", "{258583AC-F5FA-479F-863D-37E80967AB70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{9C168669-1345-4FF3-8036-F50B19D1AA2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
